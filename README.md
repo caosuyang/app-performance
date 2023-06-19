@@ -12,9 +12,13 @@ Record the monitoring and optimization of APP performance.
 4. [性能优化-EXC_BAD_ACCESS](https://github.com/caosuyang/app-performance/blob/main/memory/performance-exc-bad-access.md)
 5. [性能优化-内存导致崩溃](https://github.com/caosuyang/app-performance/blob/main/memory/performance-memory-crash.md)
 
-## 性能优化-卡顿
+## 性能优化-卡顿问题
 
-1. [性能优化-卡顿]()
+1. [性能优化-卡顿问题]()
+2. [性能优化-列表卡顿]()
+3. [性能优化-Runloop监控卡顿]()
+4. [性能优化-AsyncDisplayKit]()
+5. [性能优化-卡顿崩溃]()
 
 ## 性能优化-多线程
 
