@@ -20,7 +20,7 @@ Record the monitoring and optimization of APP performance.
 4. [性能优化-AsyncDisplayKit](https://github.com/caosuyang/app-performance/blob/main/caton/performance-caton-asdk.md)
 5. [性能优化-卡顿崩溃](https://github.com/caosuyang/app-performance/blob/main/caton/performance-caton-crash.md)
 
-## 性能优化-多线程
+## 性能优化-多线程问题
 
 1. [性能优化-多线程问题]()
 
@@ -37,3 +37,6 @@ Record the monitoring and optimization of APP performance.
 
 ## 性能优化-电量
 
+## 性能优化-Instruments
+
+1. [性能优化-Instruments]()
