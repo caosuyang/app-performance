@@ -22,7 +22,7 @@ Record the monitoring and optimization of APP performance.
 
 ## 性能优化-多线程问题
 
-1. [性能优化-多线程问题]()
+1. [性能优化-多线程问题](https://github.com/caosuyang/app-performance/blob/main/multi-thread/performance-multi-thread-problems.md)
 
 ## 性能优化-崩溃
 
