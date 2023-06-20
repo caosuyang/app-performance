@@ -24,18 +24,29 @@ Record the monitoring and optimization of APP performance.
 
 1. [性能优化-多线程问题](https://github.com/caosuyang/app-performance/blob/main/multi-thread/performance-multi-thread-problems.md)
 
-## 性能优化-崩溃
+## 性能优化-崩溃问题
 
 1. [性能优化-崩溃问题]()
 2. [性能优化-Crash堆栈符号化]()
+3. [性能优化-容错处理]()
 
 ## 性能优化-启动速度
 
+1. [性能优化-启动速度]()
+2. [性能优化-二进制重排]()
+
 ## 性能优化-包体积
+
+1. [性能优化-包体积]()
+2. [性能优化-无用代码检测]()
 
 ## 性能优化-埋点
 
+1. [性能优化-埋点方案]()
+
 ## 性能优化-电量
+
+1. [性能优化-电量消耗]()
 
 ## 性能优化-Instruments
 
