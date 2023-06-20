@@ -26,9 +26,9 @@ Record the monitoring and optimization of APP performance.
 
 ## 性能优化-崩溃问题
 
-1. [性能优化-崩溃问题]()
-2. [性能优化-Crash堆栈符号化]()
-3. [性能优化-容错机制]()
+1. [性能优化-崩溃问题](https://github.com/caosuyang/app-performance/blob/main/crash/performance-crash-problems.md)
+2. [性能优化-Crash堆栈符号化](https://github.com/caosuyang/app-performance/blob/main/crash/performance-crash-stack-symbol.md)
+3. [性能优化-容错机制](https://github.com/caosuyang/app-performance/blob/main/crash/performance-fault-tolerant.md)
 
 ## 性能优化-启动速度
 
@@ -38,7 +38,7 @@ Record the monitoring and optimization of APP performance.
 ## 性能优化-包体积
 
 1. [性能优化-包体积]()
-2. [性能优化-无用代码检测]()
+2. [性能优化-代码取差]()
 
 ## 性能优化-埋点
 
