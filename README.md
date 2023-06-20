@@ -28,7 +28,7 @@ Record the monitoring and optimization of APP performance.
 
 1. [性能优化-崩溃问题]()
 2. [性能优化-Crash堆栈符号化]()
-3. [性能优化-容错处理]()
+3. [性能优化-容错机制]()
 
 ## 性能优化-启动速度
 
@@ -51,3 +51,4 @@ Record the monitoring and optimization of APP performance.
 ## 性能优化-Instruments
 
 1. [性能优化-Instruments]()
+2. [性能优化-Leaks]()
