@@ -19,10 +19,14 @@ Record the monitoring and optimization of APP performance.
 3. [性能优化-Runloop监控卡顿](https://github.com/caosuyang/app-performance/blob/main/caton/performance-caton-runloop.md)
 4. [性能优化-AsyncDisplayKit](https://github.com/caosuyang/app-performance/blob/main/caton/performance-caton-asdk.md)
 5. [性能优化-卡顿崩溃](https://github.com/caosuyang/app-performance/blob/main/caton/performance-caton-crash.md)
+6. [性能优化-Auto Layout]()
 
 ## 性能优化-多线程问题
 
 1. [性能优化-多线程问题](https://github.com/caosuyang/app-performance/blob/main/multi-thread/performance-multi-thread-problems.md)
+2. [性能优化-QoS反转]()
+3. [性能优化-线程死锁]()
+4. [性能优化-线程同步]()
 
 ## 性能优化-崩溃问题
 
@@ -52,3 +56,9 @@ Record the monitoring and optimization of APP performance.
 
 1. [性能优化-Instruments]()
 2. [性能优化-Leaks]()
+
+## 性能优化-待细究
+
+1. [性能优化-QoS反转]()
+2. [性能优化-Crash堆栈符号化]()
+3. [性能优化-容错机制]()
