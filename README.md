@@ -36,13 +36,13 @@ Record the monitoring and optimization of APP performance.
 
 ## 性能优化-启动速度
 
-1. [性能优化-启动速度]()
-2. [性能优化-二进制重排]()
+1. [性能优化-启动速度](https://github.com/caosuyang/app-performance/blob/main/start-speed/performance-start-speed.md)
+2. [性能优化-二进制重排](https://github.com/caosuyang/app-performance/blob/main/start-speed/performance-binary-reset.md)
 
 ## 性能优化-包体积
 
-1. [性能优化-包体积]()
-2. [性能优化-代码取差]()
+1. [性能优化-包体积](https://github.com/caosuyang/app-performance/blob/main/package-size/performance-package-size.md)
+2. [性能优化-代码取差](https://github.com/caosuyang/app-performance/blob/main/package-size/performance-code-offset.md)
 
 ## 性能优化-埋点
 
@@ -62,3 +62,4 @@ Record the monitoring and optimization of APP performance.
 1. [性能优化-QoS反转]()
 2. [性能优化-Crash堆栈符号化]()
 3. [性能优化-容错机制]()
+4. [性能优化-二进制重排]()
